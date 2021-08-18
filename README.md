@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Bradley's GitHub stats](https://github-readme-stats.vercel.app/api?username=bradleywilkerson)](https://github.com/bradleywilkerson/github-readme-stats)
+[![Bradley's GitHub stats](https://github-readme-stats.vercel.app/api?username=bradleywilkerson&count_private=true)](https://github.com/bradleywilkerson/github-readme-stats)
 
 <!--
 **bradleywilkerson/bradleywilkerson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
